@@ -8,7 +8,7 @@ We are looking for a solution by creating a **Web-based** application that serve
 
 - Physically disabled individuals can create their artisan virtual shops by **verifying personal details** like Aadhar and **Unique Disability ID (UDID) card,** which serves as a **national identity card** for persons with **disabilities in India**  issued by the **Government of India**.
 
-- **Determining the quality** and **suggesting prices** for products to be sold on the platform are generated through Machine Learning (**ML**) and Artificial Intelligence (**AI**) based on the **images provided**.
+- **Determination of quality** and **suggestion on prices** for products to be sold on the platform are generated through Machine Learning (**ML**) and Artificial Intelligence (**AI**) based on the **images provided**.
 
 - Generation of **product descriptions** and **attractive banner images** for products using **AI and ML** to attract a wider audience on the platform.
 
@@ -18,7 +18,7 @@ We are looking for a solution by creating a **Web-based** application that serve
 
 ## Flow Chart:
 
-![image](https://assets.devfolio.co/content/eb2b916291d4408aab1409c1b7446a9d/b8784795-9d08-444f-96af-b59494d556ed.png)
+![image](https://assets.devfolio.co/content/eb2b916291d4408aab1409c1b7446a9d/f819a444-e2fe-4146-8970-61c3c2627180.png)
 
 ## working:
 - Physically disabled Artisans can create an virtual shop by completing certain verification methods(UDID & Aadhar card). 
